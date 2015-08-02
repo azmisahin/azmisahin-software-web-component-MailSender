@@ -2,9 +2,9 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("com.azmisahin.PlugIn.Mail.Tests")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Smtp Mail Send test")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("azmisahin.com")]
 [assembly: AssemblyProduct("com.azmisahin.PlugIn.Mail.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("bilgi@azmisahin.com")]
